@@ -10,3 +10,22 @@ UPS-Lite是一款专门为树莓派Zero所设计的UPS电源，采用一块1000m
 UPS-Lite is a UPS power supply specially designed for the Raspberry Pi Zero. It uses a 1000mAh polymer lithium battery for power supply, supports external power supply insertion detection, supports charging and discharging while supporting battery power detection. Support battery level detection.
  
 For detailed instructions, please refer to the instructions in the project file. If you have any questions, please contact me: 416386001@qq.com
+
+
+
+
+
+## Statement about fake UPS-Lite 
+hello, first of all, thank you for your support of ups-lite. Recently, I have received feedback from many customers, they bought fake ups-lite, there are many problems, some can not read the accurate battery power value, some battery bulge phenomenon, and some serious damage to pi zero. If you buy a ups-lite like this picture, it says "Designed BY MJ" on the back, then it is a fake ups-lite, and it is recommended to stop using it for safety.
+
+![image](https://github.com/linshuqin329/UPS-Lite/blob/master/Fake%20UPS-Lite.jpeg)
+
+
+
+
+
+
+
+
+
+

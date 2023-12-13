@@ -12,6 +12,8 @@ UPS-Lite is a UPS power supply specially designed for the Raspberry Pi Zero. It 
 For detailed instructions, please refer to the instructions in the project file. If you have any questions, please contact me: 416386001@qq.com
 
 
+You can buy ups-lite from here   https://www.tindie.com/products/rachel/ups-lite-for-raspberry-pi-zero/
+
 
 
 

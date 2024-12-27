@@ -28,6 +28,14 @@ hello, first of all, thank you for your support of ups-lite. Recently, I have re
 
 
 
+# Case for UPS-Lite 
+https://makerworld.com.cn/zh/models/767038#profileId-734749
+
+
+
+
+
+
 
 
 

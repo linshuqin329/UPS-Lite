@@ -32,6 +32,7 @@ hello, first of all, thank you for your support of ups-lite. Recently, I have re
 https://makerworld.com.cn/zh/models/767038#profileId-734749
 
 ![image](UPS-Lite_Case/UPS-Lite_Case/images/UPS-Lite_Case_1.jpg)
+
 ![image](UPS-Lite_Case/UPS-Lite_Case/images/UPS-Lite_Case_4.jpg)
 
 
